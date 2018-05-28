@@ -18,4 +18,4 @@ Before beginning, you will be required to install tweepy and textblob via pip.Th
 8. Sentiment analysis
 
 All graphs and results created in this project can be found in an excel in the repository. The data used for analysis in this project will also be found in the same excel file. You will find a detailed explamnation for all codes utlized on my website:
-https://sites.google.com/view/yooqui/projects-portfolio/sentiment-analysis-on-donald-trump-and-barack-obama
+https://sites.google.com/view/yusrafarooqui/projects-portfolio/sentiment-analysis-on-donald-trump-and-barack-obama
