@@ -5,13 +5,6 @@ Created on Thu May 17 06:05:45 2018
 @author: Yusra
 """
 
-import os
-os.getcwd()
-os.chdir("C:\\Users\Yusra\Desktop\DataWrangler")
-
-import sys
-print (sys.version)
-
 import tweepy
 from tweepy import OAuthHandler
 import pandas as pd
