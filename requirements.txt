@@ -1,0 +1,8 @@
+#external-twitter ap
+#python libraries:
+tweepy
+pandas as pd
+numpy 
+re
+matplotlib.pyplot
+textblob
